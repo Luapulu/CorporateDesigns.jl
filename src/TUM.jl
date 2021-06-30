@@ -1,3 +1,8 @@
+"""
+    TUM
+
+Corporate design of TU Munich
+"""
 module TUM
 
 using Colors
